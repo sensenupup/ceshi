@@ -1,3 +1,4 @@
+'''mermaid'''
 一、整体角色与模块关系图
 graph TB
     subgraph 访客
